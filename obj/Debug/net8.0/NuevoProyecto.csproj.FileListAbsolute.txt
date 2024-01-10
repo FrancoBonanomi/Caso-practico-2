@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\bin\Debug\net8.0\NuevoProyecto.exe
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\bin\Debug\net8.0\NuevoProyecto.deps.json
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\bin\Debug\net8.0\NuevoProyecto.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\bin\Debug\net8.0\NuevoProyecto.dll
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\bin\Debug\net8.0\NuevoProyecto.pdb
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.dll
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\refint\NuevoProyecto.dll
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.pdb
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\NuevoProyecto.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\casopractico2\NuevoProyecto\obj\Debug\net8.0\ref\NuevoProyecto.dll
